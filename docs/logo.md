@@ -1,6 +1,5 @@
 # Использование логотипа
 
-
 ![Логотип](/MetalGPT_LOGO/METALGPT_update.png)
 
 ## Назначение
